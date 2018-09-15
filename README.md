@@ -1,10 +1,9 @@
 # mumblepins/openvpn-monitor
 
-Fork of [ruimarinho/docker-openvpn-monitor](https://github.com/ruimarinho/docker-openvpn-monitor)
+Fork of [ruimarinho/docker-openvpn-monitor](https://github.com/ruimarinho/docker-openvpn-monitor) and [mumblepins/openvpn-monitor](https://github.com/mumblepins/docker-openvpn-monitor)
 
 Run the [web-based OpenVPN Monitor](http://openvpn-monitor.openbytes.ie) in Docker.
 
-[![mumblepins/openvpn-monitor stars][docker-stars-image]][docker-hub-url]  [![mumblepins/openvpn-monitor pulls][docker-pulls-image]][docker-hub-url]  [![mumblepins/openvpn-monitor badge][microbadger-layers-image]][microbadger-layers]
 
 ## What is OpenVPN Monitor?
 
@@ -68,8 +67,3 @@ This image is officially supported on Docker version 1.12, with support for olde
 
 MIT
 
-[docker-hub-url]: https://hub.docker.com/r/mumblepins/openvpn-monitor
-[docker-pulls-image]: https://img.shields.io/docker/pulls/mumblepins/openvpn-monitor.svg?style=flat-square
-[docker-stars-image]: https://img.shields.io/docker/stars/mumblepins/openvpn-monitor.svg?style=flat-square
-[microbadger-layers]: https://microbadger.com/images/mumblepins/openvpn-monitor
-[microbadger-layers-image]: https://images.microbadger.com/badges/image/mumblepins/openvpn-monitor.svg
